@@ -1,0 +1,21 @@
+<!DOCTYPE>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta name=description content="O trio do cinema">
+    <title>O trio do cinema</title>
+    <link type="text/css" rel="stylesheet" href="estilo.css">
+    
+<body>
+<h1>CONHEÇA O MELHOR TRIO DO CINEMA!</h1>
+<h3>Quem somos nós?</h3>
+<p><strong>Nós somos um trio composto por Kauan, Izabel e Laís ^-^</strong>
+<p><img src="pp.jpg" width=300 alt="Trio do cinema"></p>
+<p>Qual será o próximo filme que nós iremos assistir? Faça sua escolha:<br>   
+<a href="https://www.cinemark.com.br/filme/john-wick-capitulo-terceiro" target="_blank">John Wick 3</a><br>
+<a href="https://www.cinemark.com.br/filme/cemiterio-maldito" target="_blank">Cemitério Maldito</a><br>
+<a href="https://www.cinemark.com.br/filme/hellboy" target="_blank">Hellboy</a>
+</p>   
+<p>Muito obrigado pela sua escolha!</p>
+</body>
+</html>
